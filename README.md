@@ -1,4 +1,4 @@
-# 中国用户如何使用WildCard虚拟信用卡升级订阅ChatGPT Plus会员？
+# 国内升级订阅ChatGPT Plus会员教程：如何注册ChatGPT账号？中国大陆用户如何使用WildCard虚拟信用卡充值购买ChatGPT Plus账号？
 
 <p align="center">文章更新于：2025年1月11日</p >
 
