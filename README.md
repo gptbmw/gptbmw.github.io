@@ -46,19 +46,18 @@ WildCard的优势不仅在于它能帮助我们绕过国内支付工具的限制
 
 #### 第一步：访问Wildcard官网
 
-首先，打开 Wildcard官网，在网站右上角，你可以找到语言切换按钮。如果你更习惯使用英语，点击此按钮将网站语言切换为英语，方便你后续操作。
+首先，打开 Wildcard官网，点击“立即体验”。在网站右上角，你可以找到语言切换按钮。如果你更习惯使用英语，点击此按钮将网站语言切换为英语，方便你后续操作。
 
 * WildCard官网：<a href="https://bewildcard.com/i/GPTBMW">https://bewildcard.com/i/GPTBMW</a>
 
-![点击注册按钮](https://raw.githubusercontent.com/gptbmw/gptbmw.github.io/refs/heads/main/image/ChatGPT%E6%B3%A8%E5%86%8C-1.png)
+![访问Wildcard官网](https://github.com/gptbmw/gptbmw.github.io/blob/main/image/wildcard-1.png)
 
-#### 第二步：点击“立即体验”
+#### 第二步：点击“立即开通”
 
-在官网首页，点击“立即体验”按钮，进入到下一步界面。在这里，你将看到“立即开通”按钮，点击后继续点击“继续开通”按钮，开始注册过程。
+在这里，你将看到“立即开通”按钮。
+在此页面，你会看到Wildcard支持多个应用平台的充值，如OpenAI、Google Play、ChatGPT等，表明它的广泛应用范围。Wildcard主打轻松注册、快速使用、无感支付，并且手续费相对较低，是非常值得推荐的虚拟信用卡服务。
 
 ![点击“立即体验”](https://raw.githubusercontent.com/gptbmw/gptbmw.github.io/refs/heads/main/image/wildcard-2.png)
-
-在此过程中，你还会看到Wildcard支持多个应用平台的充值，如OpenAI、Google Play、ChatGPT等，表明它的广泛应用范围。Wildcard主打轻松注册、快速使用、无感支付，并且手续费相对较低，是非常值得推荐的虚拟信用卡服务。
 
 #### 第三步：开通会员
 
