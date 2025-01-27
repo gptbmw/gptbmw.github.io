@@ -50,40 +50,67 @@ WildCard的优势不仅在于它能帮助我们绕过国内支付工具的限制
 
 * WildCard官网：<a href="https://bewildcard.com/i/GPTBMW">https://bewildcard.com/i/GPTBMW</a>
 
+![点击注册按钮](https://raw.githubusercontent.com/gptbmw/gptbmw.github.io/refs/heads/main/image/ChatGPT%E6%B3%A8%E5%86%8C-1.png)
+
 #### 第二步：点击“立即体验”
 
 在官网首页，点击“立即体验”按钮，进入到下一步界面。在这里，你将看到“立即开通”按钮，点击后继续点击“继续开通”按钮，开始注册过程。
 
+![点击“立即体验”](https://raw.githubusercontent.com/gptbmw/gptbmw.github.io/refs/heads/main/image/wildcard-2.png)
+
 在此过程中，你还会看到Wildcard支持多个应用平台的充值，如OpenAI、Google Play、ChatGPT等，表明它的广泛应用范围。Wildcard主打轻松注册、快速使用、无感支付，并且手续费相对较低，是非常值得推荐的虚拟信用卡服务。
 
-#### 第三步：选择会员套餐
+#### 第三步：开通会员
 
-接下来，你将看到Wildcard会员的收费标准、会员权益以及相关注意事项。需要特别注意的是，开通Wildcard虚拟信用卡时，需要支付一定的开卡费用（类似银行办卡时的工本费）。点击“开通会员”按钮，继续操作。
+在此，你可以看到Wildcard会员的收费标准、会员权益以及相关注意事项，点击“开通会员”按钮，继续操作。需要特别注意的是，开通Wildcard虚拟信用卡时，需要支付一定的开卡费用（类似银行办卡时的工本费）。
 
-提醒：开卡费是激活虚拟信用卡的必要步骤，没有支付这部分费用，无法顺利开卡。
+![开通会员](https://raw.githubusercontent.com/gptbmw/gptbmw.github.io/refs/heads/main/image/wildcard-3.png)
 
 #### 第四步：注册账户
 
 进入注册页面后，你可以使用中国大陆的手机号码进行注册。输入手机号码后，点击“获取验证码”，并输入收到的验证码，点击“提交注册”。接着，你将设置账户密码，完成账户注册。
 
-#### 第五步：支付开卡费
+![注册账户](https://raw.githubusercontent.com/gptbmw/gptbmw.github.io/refs/heads/main/image/wildcard-4.png)
 
-完成注册并成功登录后，你会看到支付开卡费的页面。此时，你需要支付一定的开卡费用，才能激活虚拟信用卡。支付时，系统会弹出支付宝二维码，你只需使用手机支付宝扫码完成支付即可。
+#### 第五步：选择服务年限
+
+完成注册并成功登录后，你会看到支付开卡费的页面，可以根据自己的需求选择服务年限。我们需要支付一定的开卡费用，才能激活虚拟信用卡。
 
 * 重点提示： 输入邀请码“**GPTBMW**”即可享受1美元的优惠，虽然优惠金额会有波动，但使用此邀请码，你将始终获得最优惠的价格。
 
-#### 第六步：填写个人信息
+![选择服务年限](https://raw.githubusercontent.com/gptbmw/gptbmw.github.io/refs/heads/main/image/wildcard-5.png)
+
+提醒：开卡费是激活虚拟信用卡的必要步骤，没有支付这部分费用，无法顺利开卡。
+
+#### 第六步：支付服务费用
+
+支付时，系统会弹出支付宝二维码，你只需使用手机支付宝扫码完成支付即可。
+
+![支付开卡费](https://raw.githubusercontent.com/gptbmw/gptbmw.github.io/refs/heads/main/image/wildcard-6.png)
+
+#### 第七步：填写个人信息
 
 支付成功后，你将进入到个人信息填写页面。在这里，系统会要求你填写英文姓名，并阅读并同意封禁须知。填写完毕后，点击“下一步”继续。
 
+![填写个人信息](https://raw.githubusercontent.com/gptbmw/gptbmw.github.io/refs/heads/main/image/wildcard-7%E5%A1%AB%E5%86%99%E4%B8%AA%E4%BA%BA%E8%BA%AB%E4%BB%BD%E4%BF%A1%E6%81%AF.jpg)
+
 此时，你会看到“恭喜您开通Wildcard支付服务！”的提示信息。页面下方将显示每月的支付限额以及开通人脸认证后的额度。若需要，你可以点击“立即提升额度”进行认证。如果你不希望提供更多个人信息，也可以选择暂时不进行认证，依然可以正常使用。
+
+![开卡成功](https://raw.githubusercontent.com/gptbmw/gptbmw.github.io/refs/heads/main/image/wildcard-8.jpg)
 
 认证与不认证的区别：如果选择进行实名认证（通过人脸识别），你的每月支付限额将提升至3000美元，适合需要更大额度的用户。若你选择不进行实名认证，支付限额将保持在每月60美元，适合一般用户使用。
 无论是否进行认证，你都可以正常使用WildCard虚拟信用卡进行OpenAI、Google Play、ChatGPT等平台的充值。认证与否仅影响每月支付的额度，具体选择根据你自己的实际需求来决定。
 
-#### 第七步：查看虚拟信用卡信息
+#### 第八步：查看虚拟信用卡信息
 
 完成所有步骤后，你的WildCard虚拟信用卡就开通成功了。你可以点击页面下方的“查看卡片信息”，或者在左侧菜单栏点击“我的卡片”来查看卡片的详细信息，包括卡号、有效期、账单地址以及可用余额等。
+
+![查看虚拟信用卡信息](https://raw.githubusercontent.com/gptbmw/gptbmw.github.io/refs/heads/main/image/wildcard-9%E6%88%91%E7%9A%84%E5%8D%A1%E7%89%87.png)
+
+#### 第九步：充值
+
+目前我们的卡里可用余额为0，但订阅升级ChatGPT Plus的费用是每月20美金，如果我们想升级订阅ChatGPT Plus，那么我们需要先对WildCard进行充值，建议充值的金额最好大于20美金，以保证我们的顺利的成功订阅ChatGPT Plus。
+
 
 小结：开通WildCard虚拟信用卡的过程并不复杂。通过注册、支付服务费以及填写个人信息，你就可以轻松完成开卡，并使用该卡进行ChatGPT Plus、OpenAI、Midjourney等平台的充值。Wildcard提供了便捷的操作流程、低廉的费用，以及对多种应用平台的支持，是解决跨境支付问题的理想选择。
 
@@ -97,18 +124,27 @@ WildCard的优势不仅在于它能帮助我们绕过国内支付工具的限制
 
 进入ChatGPT官网后，点击页面右上角的“注册”（Sign up）按钮，进入注册页面。在这里，你需要在“Email address”字段中输入之前注册好的Gmail邮箱地址。如果你没有Gmail邮箱，也可以尝试使用其他邮箱，但需确保该邮箱可以正常接收国外邮件。
 
+![点击注册按钮](https://raw.githubusercontent.com/gptbmw/gptbmw.github.io/refs/heads/main/image/ChatGPT%E6%B3%A8%E5%86%8C-1.png)
+
 ### 第三步：设置密码并验证邮箱
 
 * 1、在注册页面输入你的邮箱地址后，点击“继续”（Continue）按钮。
 * 2、系统会提示你设置一个密码。建议使用强密码（包含大小写字母、数字和特殊字符）以确保账号安全。
 * 3、点击“继续”（Continue）后，ChatGPT会向你填写的邮箱发送一封验证邮件。
 
+![设置密码并验证邮箱](https://raw.githubusercontent.com/gptbmw/gptbmw.github.io/refs/heads/main/image/ChatGPT%E6%B3%A8%E5%86%8C-2.png)
+
 ### 第四步：验证邮箱地址
 
 * 1、打开你的邮箱，找到ChatGPT发送的验证邮件。如果未找到，可以检查“垃圾邮件”或“促销邮件”文件夹。
 * 2、打开邮件后，点击“验证电子邮件地址”（Verify Email Address）按钮。
+
+![验证邮箱地址](https://raw.githubusercontent.com/gptbmw/gptbmw.github.io/refs/heads/main/image/ChatGPT%E6%B3%A8%E5%86%8C-3.png)
+  
 * 3、返回ChatGPT注册页面，按提示输入你的姓名和出生日期。需要注意的是，系统要求用户年满18岁，因此输入的日期应满足这一条件。建议与你注册Gmail时填写的日期保持一致，以避免潜在问题。
 * 4、勾选同意条款并点击“同意”（Agree）按钮。
+
+![填写信息](https://raw.githubusercontent.com/gptbmw/gptbmw.github.io/refs/heads/main/image/ChatGPT%E6%B3%A8%E5%86%8C-5.png)
 
 小结：完成以上步骤后，你的ChatGPT基础账号就注册成功了。
 
@@ -122,17 +158,25 @@ WildCard的优势不仅在于它能帮助我们绕过国内支付工具的限制
 
 打开我们刚刚注册的Wildcard虚拟信用卡账号，在左侧功能列表中找到“一键升级ChatGPT”选项，点击进入开通会员的界面。
 
+![进入Wildcard虚拟信用卡的“一键升级”功能](https://raw.githubusercontent.com/gptbmw/gptbmw.github.io/refs/heads/main/image/ChatGPT%E4%B8%80%E9%94%AE%E5%8D%87%E7%BA%A7-1.png)
+
 #### 2、选择订阅计划
 
 系统会提示你选择ChatGPT Plus的订阅方式，推荐选择 20美元/月 的标准订阅方案。选定后，你将看到具体的升级流程指引，点击“下一步”。
 
-#### 3、前往ChatGPT账号并启动升级
+![选择订阅计划](https://raw.githubusercontent.com/gptbmw/gptbmw.github.io/refs/heads/main/image/ChatGPT%E4%B8%80%E9%94%AE%E5%8D%87%E7%BA%A72.png)
 
-登录你的ChatGPT账号，点击左下角的“Upgrade plan”按钮。在新页面中，点击中间的绿色按钮“Upgrade to Plus”，进入支付页面。
+#### 3、前往ChatGPT账号复制支付网址
+
+登录你的ChatGPT账号，点击左下角的“Upgrade plan”按钮。在新页面中，点击中间的绿色按钮“Upgrade to Plus”，进入支付页面，在这里不需要填写任何信息，我们只需要把网页最上面以“pay.openai.com”开头的URL的网址全部复制下来。
+
+![复制支付网址](https://raw.githubusercontent.com/gptbmw/gptbmw.github.io/refs/heads/main/image/ChatGPT%E4%B8%80%E9%94%AE%E5%8D%87%E7%BA%A7-3.png)
 
 #### 4、使用Wildcard完成支付
 
-在支付页面中，复制页面上的支付网址（以“pay.openai.com”开头的URL），然后回到Wildcard的“一键升级”功能页面，将支付网址粘贴到右侧的输入框中，点击“一键升级”。系统会自动完成支付并激活ChatGPT Plus订阅。完成后，你即可畅享ChatGPT Plus带来的高级功能。
+复制完网址后，回到Wildcard的“一键升级”功能页面，将支付网址粘贴到右侧的输入框中，点击“一键升级”。系统会自动完成支付并激活ChatGPT Plus订阅。完成后，你即可畅享ChatGPT Plus带来的高级功能。
+
+![使用Wildcard完成支付](https://raw.githubusercontent.com/gptbmw/gptbmw.github.io/refs/heads/main/image/ChatGPT%E4%B8%80%E9%94%AE%E5%8D%87%E7%BA%A7-4.png)
 
 ### 方法二：手动升级
 
@@ -141,6 +185,8 @@ WildCard的优势不仅在于它能帮助我们绕过国内支付工具的限制
 #### 1、进入ChatGPT订阅页面
 
 登录你的ChatGPT账号，点击左下角的“Upgrade plan”按钮，进入升级界面。点击中间的绿色按钮“Upgrade to Plus”，进入支付页面。
+
+![进入ChatGPT订阅页面](https://raw.githubusercontent.com/gptbmw/gptbmw.github.io/refs/heads/main/image/%E6%89%8B%E5%8A%A8%E5%8D%87%E7%BA%A7.jpg)
 
 #### 2、填写Wildcard虚拟信用卡信息
 
