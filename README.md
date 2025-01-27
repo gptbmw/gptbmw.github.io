@@ -161,7 +161,7 @@ WildCard的优势不仅在于它能帮助我们绕过国内支付工具的限制
 
 #### 2、选择订阅计划
 
-系统会提示你选择ChatGPT Plus的订阅方式，推荐选择 20美元/月 的标准订阅方案。选定后，你将看到具体的升级流程指引，点击“下一步”。
+系统会提示你选择ChatGPT Plus的订阅方式，推荐选择 20美元/月 的标准订阅方案，选定后，点击“下一步”，跟着提示一步步进行，在此过程中，你也将看到具体的升级流程指引。
 
 ![选择订阅计划](https://raw.githubusercontent.com/gptbmw/gptbmw.github.io/refs/heads/main/image/ChatGPT%E4%B8%80%E9%94%AE%E5%8D%87%E7%BA%A72.png)
 
