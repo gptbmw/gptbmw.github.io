@@ -1,6 +1,6 @@
 # 国内升级订阅ChatGPT Plus会员教程：如何注册ChatGPT账号？中国大陆用户如何使用WildCard虚拟信用卡充值购买ChatGPT Plus账号？
 
-<p align="center">文章更新于：2025年1月11日</p >
+<p align="center">文章更新于：2025年2月9日</p >
 
 近年来，随着人工智能技术的迅猛发展，AI已经逐渐渗透到我们生活的各个方面，不仅改变了我们的工作方式，也为我们的日常生活带来了前所未有的便利。从智能助手到自动驾驶，从语音识别到个性化推荐，人工智能技术的应用场景越来越广泛。尤其在2023年初，人工智能迎来了一波全球热潮，人们开始频繁接触到一个词：ChatGPT。作为这一波潮流的代表，ChatGPT不仅能够生成文本，还能进行创意写作、编程、图像创作等多种任务，打破了传统工作模式的时间和思维限制。它迅速从一个小众工具成长为广泛应用于教育、娱乐、科技等多个领域的重要工具。那么，ChatGPT究竟是什么？中国大陆用户该如何订阅ChatGPT Plus呢？
 
@@ -95,7 +95,7 @@ WildCard的优势不仅在于它能帮助我们绕过国内支付工具的限制
 
 此时，你会看到“恭喜您开通Wildcard支付服务！”的提示信息。页面下方将显示每月的支付限额以及开通人脸认证后的额度。若需要，你可以点击“立即提升额度”进行认证。如果你不希望提供更多个人信息，也可以选择暂时不进行认证，依然可以正常使用。
 
-![开卡成功](https://raw.githubusercontent.com/gptbmw/gptbmw.github.io/refs/heads/main/image/wildcard-8.jpg)
+![WildCard开卡成功](https://raw.githubusercontent.com/gptbmw/gptbmw.github.io/refs/heads/main/image/wildcard-8.jpg)
 
 认证与不认证的区别：如果选择进行实名认证（通过人脸识别），你的每月支付限额将提升至3000美元，适合需要更大额度的用户。若你选择不进行实名认证，支付限额将保持在每月60美元，适合一般用户使用。
 无论是否进行认证，你都可以正常使用WildCard虚拟信用卡进行OpenAI、Google Play、ChatGPT等平台的充值。认证与否仅影响每月支付的额度，具体选择根据你自己的实际需求来决定。
@@ -104,7 +104,7 @@ WildCard的优势不仅在于它能帮助我们绕过国内支付工具的限制
 
 完成所有步骤后，你的WildCard虚拟信用卡就开通成功了。你可以点击页面下方的“查看卡片信息”，或者在左侧菜单栏点击“我的卡片”来查看卡片的详细信息，包括卡号、有效期、账单地址以及可用余额等。
 
-![查看虚拟信用卡信息](https://raw.githubusercontent.com/gptbmw/gptbmw.github.io/refs/heads/main/image/wildcard-9%E6%88%91%E7%9A%84%E5%8D%A1%E7%89%87.png)
+![查看WildCard虚拟信用卡信息](https://raw.githubusercontent.com/gptbmw/gptbmw.github.io/refs/heads/main/image/wildcard-9%E6%88%91%E7%9A%84%E5%8D%A1%E7%89%87.png)
 
 #### 第九步：充值
 
@@ -123,7 +123,7 @@ WildCard的优势不仅在于它能帮助我们绕过国内支付工具的限制
 
 进入ChatGPT官网后，点击页面右上角的“注册”（Sign up）按钮，进入注册页面。在这里，你需要在“Email address”字段中输入之前注册好的Gmail邮箱地址。如果你没有Gmail邮箱，也可以尝试使用其他邮箱，但需确保该邮箱可以正常接收国外邮件。
 
-![点击注册按钮](https://raw.githubusercontent.com/gptbmw/gptbmw.github.io/refs/heads/main/image/ChatGPT%E6%B3%A8%E5%86%8C-1.png)
+![在ChatGPT官网页面点击注册按钮](https://raw.githubusercontent.com/gptbmw/gptbmw.github.io/refs/heads/main/image/ChatGPT%E6%B3%A8%E5%86%8C-1.png)
 
 ### 第三步：设置密码并验证邮箱
 
@@ -131,7 +131,7 @@ WildCard的优势不仅在于它能帮助我们绕过国内支付工具的限制
 * 2、系统会提示你设置一个密码。建议使用强密码（包含大小写字母、数字和特殊字符）以确保账号安全。
 * 3、点击“继续”（Continue）后，ChatGPT会向你填写的邮箱发送一封验证邮件。
 
-![设置密码并验证邮箱](https://raw.githubusercontent.com/gptbmw/gptbmw.github.io/refs/heads/main/image/ChatGPT%E6%B3%A8%E5%86%8C-2.png)
+![设置ChatGPT密码并验证邮箱](https://raw.githubusercontent.com/gptbmw/gptbmw.github.io/refs/heads/main/image/ChatGPT%E6%B3%A8%E5%86%8C-2.png)
 
 ### 第四步：验证邮箱地址
 
@@ -163,13 +163,13 @@ WildCard的优势不仅在于它能帮助我们绕过国内支付工具的限制
 
 系统会提示你选择ChatGPT Plus的订阅方式，推荐选择 20美元/月 的标准订阅方案，选定后，点击“下一步”，跟着提示一步步进行，在此过程中，你也将看到具体的升级流程指引。
 
-![选择订阅计划](https://raw.githubusercontent.com/gptbmw/gptbmw.github.io/refs/heads/main/image/ChatGPT%E4%B8%80%E9%94%AE%E5%8D%87%E7%BA%A72.png)
+![选择ChatGPT Plus订阅计划](https://raw.githubusercontent.com/gptbmw/gptbmw.github.io/refs/heads/main/image/ChatGPT%E4%B8%80%E9%94%AE%E5%8D%87%E7%BA%A72.png)
 
 #### 3、前往ChatGPT账号复制支付网址
 
 登录你的ChatGPT账号，点击左下角的“Upgrade plan”按钮。在新页面中，点击中间的绿色按钮“Upgrade to Plus”，进入支付页面，在这里不需要填写任何信息，我们只需要把网页最上面以“pay.openai.com”开头的URL的网址全部复制下来。
 
-![复制支付网址](https://raw.githubusercontent.com/gptbmw/gptbmw.github.io/refs/heads/main/image/ChatGPT%E4%B8%80%E9%94%AE%E5%8D%87%E7%BA%A7-3.png)
+![复制ChatGPT Plus支付网址](https://raw.githubusercontent.com/gptbmw/gptbmw.github.io/refs/heads/main/image/ChatGPT%E4%B8%80%E9%94%AE%E5%8D%87%E7%BA%A7-3.png)
 
 #### 4、使用Wildcard完成支付
 
@@ -386,3 +386,9 @@ ChatGPT基础版：更适合轻度使用者，如仅需偶尔进行日常对话�
 然而，需要注意的是，虽然你可以查看历史记录，但在取消订阅后，一些ChatGPT Plus的高级功能将无法使用。例如，Plus会员所享有的快速响应、更高频率的使用以及最新的AI模型等功能，都会受到限制。如果你需要继续使用这些高级功能，可能需要重新激活ChatGPT Plus订阅。
 
 总结：取消订阅并不会影响你查看聊天记录的能力，只是会使你失去ChatGPT Plus专属的增强功能。因此，历史聊天记录会被保留，但如果你需要继续享受更优质的服务体验，建议根据需要重新订阅。
+
+# 20205国内获得订阅开通ChatGPT Plus的相关文章：
+
+*<a href="https://github.com/gptbmw/chatgpt-plus-hezu">最新ChatGPT Plus拼车合租购买教程、平台推荐</a> ：本文详细介绍了如何安全高效地合租拼车ChatGPT Plus账号，国内最新最靠谱合租ChatGPT Plus账号平台推荐，合租拼车的优缺点，以及合租时需要注意的事项，帮助大家低成本享受高性价比的ChatGPT Plus订阅体验。
+
+* <a href="https://github.com/gptbmw/claude-pro">中国大陆升级订阅Claude Pro会员教程</a> ：此文中手把手教会大家在国内如何注册Claude账号，并详细的介绍了如何升级订阅Claude Pro会员， 以及Claude账号防封建议、如何取消Claude Pro订阅、以及WildCard虚拟信用卡中的余额怎么提现等大家比较关心的问题。
