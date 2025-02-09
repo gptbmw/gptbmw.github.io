@@ -387,7 +387,7 @@ ChatGPT基础版：更适合轻度使用者，如仅需偶尔进行日常对话�
 
 总结：取消订阅并不会影响你查看聊天记录的能力，只是会使你失去ChatGPT Plus专属的增强功能。因此，历史聊天记录会被保留，但如果你需要继续享受更优质的服务体验，建议根据需要重新订阅。
 
-# 20205国内获得订阅开通ChatGPT Plus的相关文章：
+# 2025国内获得订阅开通ChatGPT Plus的相关文章：
 
 * <a href="https://github.com/gptbmw/chatgpt-plus-hezu">最新ChatGPT Plus拼车合租购买教程、平台推荐</a> ：本文详细介绍了如何安全高效地合租拼车ChatGPT Plus账号，国内最新最靠谱合租ChatGPT Plus账号平台推荐，合租拼车的优缺点，以及合租时需要注意的事项，帮助大家低成本享受高性价比的ChatGPT Plus订阅体验。
 
