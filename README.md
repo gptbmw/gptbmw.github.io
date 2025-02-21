@@ -392,3 +392,7 @@ ChatGPT基础版：更适合轻度使用者，如仅需偶尔进行日常对话�
 * <a href="https://github.com/gptbmw/chatgpt-plus-hezu">最新ChatGPT Plus拼车合租购买教程、平台推荐</a> ：本文详细介绍了如何安全高效地合租拼车ChatGPT Plus账号，国内最新最靠谱合租ChatGPT Plus账号平台推荐，合租拼车的优缺点，以及合租时需要注意的事项，帮助大家低成本享受高性价比的ChatGPT Plus订阅体验。
 
 * <a href="https://github.com/gptbmw/claude-pro">中国大陆升级订阅Claude Pro会员教程</a> ：此文中手把手教会大家在国内如何注册Claude账号，并详细的介绍了如何升级订阅Claude Pro会员， 以及Claude账号防封建议、如何取消Claude Pro订阅、以及WildCard虚拟信用卡中的余额怎么提现等大家比较关心的问题。
+
+* * <a href="https://github.com/gptbmw/netflix-hezu">最新2025年奈飞Netflix合租全攻略：每月仅需27元</a> ：追剧党福利！本文将全面深入解析2025年如何拼车购买Netflix账号，包括合租奈飞账号的优势、靠谱的奈飞合租平台推荐、合租奈飞的注意事项，帮助你用更低的价格享受Netflix的高清流媒体服务。
+
+* <a href="https://github.com/gptbmw/wildcard">最新野卡wildcard虚拟信用卡使用指南</a> ：此文中详细深入的介绍了wildcard野卡虚拟信用卡的概念、开通方法、使用场景、特点和优势以及日常使用中的注意事项和管理方法，帮助你快速顺利的开通一张野卡虚拟信用卡。
