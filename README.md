@@ -12,13 +12,13 @@ ChatGPT，全名为“Chat Generative Pre-trained Transformer”，是由OpenAI�
 
 ## 订阅ChatGPT Plus前的准备工作 
 
-在开始使用ChatGPT之前，我们需要进行一些准备工作，确保一切顺利进行。具体步骤如下：
+在开始使用ChatGPT之前，我们需要进行一些准备工作，确保一切顺利进行。具体如下：
 
 1.一个科学上网工具：由于ChatGPT目前在国内无法直接访问，因此需要一个科学上网工具来突破地理限制，访问ChatGPT官网。（科学上网工具需要大家自行解决，我们这里不讨论！）
 
 2.一个有效且干净的电子邮箱：为了避免遇到验证邮件收不到的问题，最好使用一个有效的国外邮箱，如Gmail。创建国外邮箱的过程非常简单，可以通过访问Gmail官网进行注册。（如果你已经拥有Gmail邮箱，可以跳过此步骤！）
 
-3.一张WildCard野卡虚拟信用卡：为了顺利进行ChatGPT Plus的充值和升级，你需要拥有一张WildCard虚拟信用卡。WildCard卡可以帮助你解决国内无法直接使用本地信用卡支付的问题。（如何获取一张<a href="https://bewildcard.com/i/GPTBMW">WildCard虚拟信用卡</a>，请查看下文！）
+3.一张WildCard野卡虚拟信用卡：为了顺利进行ChatGPT Plus的充值和升级，你需要拥有一张WildCard虚拟信用卡。WildCard卡可以帮助你解决国内无法直接使用本地信用卡支付的问题。（如何获取一张<a href="https://yeka.ai/i/GPTBMW">WildCard野卡虚拟信用卡</a>，请查看下文！）
 
 注册ChatGPT基础账号：访问ChatGPT官网（chat.openai.com）进行注册。在这里，务必确认网址的正确性，并注意查找带有官方商标的页面，避免进入假冒网站。（如果你还不知道如何注册，可以参考下文的详细步骤！）
 
@@ -34,11 +34,11 @@ WildCard的优势在于其简便的开通流程、低廉的手续费以及快速
 
 ### 为什么要开通WildCard虚拟信用卡?
 
-许多用户可能会问，既然我只是想充值或升级ChatGPT Plus，为什么还需要开通WildCard虚拟信用卡？这个问题的答案其实很简单：因为目前ChatGPT及其相关服务并未对中国大陆用户开放，国内的银行卡（包括储蓄卡、信用卡）以及支付工具（如支付宝、微信等）都无法直接用于充值或订阅OpenAI的服务。
+许多用户可能会问，我只是想充值或升级订阅ChatGPT Plus，为什么需要开通WildCard野卡虚拟信用卡？这个问题的答案其实很简单：因为目前ChatGPT及其相关服务并未对中国大陆用户开放，国内的银行卡（包括储蓄卡、信用卡）以及支付工具（如支付宝、微信等）都无法直接用于充值或订阅OpenAI的服务。
 
-因此，如果你希望顺利地进行ChatGPT Plus、Midjourney等海外平台的充值或订阅，而又没有国际信用卡或PayPal等支付方式，那么WildCard虚拟信用卡便是一个极为方便的解决方案。它允许用户以非常简便的方式创建并使用一张虚拟信用卡进行国际支付，解决了跨境支付的诸多障碍。
+因此，如果你希望顺利地进行ChatGPT Plus、Midjourney等海外平台的充值或订阅，而又没有国际信用卡或PayPal等支付方式，那么WildCard 野卡虚拟信用卡便是一个极为方便的解决方案。一分钟注册，轻松订阅海外软件服务，以非常简便的方式帮助用户解决跨境支付的诸多障碍。
 
-WildCard的优势不仅在于它能帮助我们绕过国内支付工具的限制，还在于它的开通过程非常简单，支付过程也非常顺畅。无论是注册、使用，还是支付手续费用，WildCard都具备极高的稳定性和用户友好性。而且，它的费用相对较低，还经常提供优惠，尤其是通过我们推荐的步骤，你可以享受到更多专属折扣。我们可以自信地说，按照我们的方法操作，WildCard的成功率几乎是100%。
+WildCard的优势不仅在于它能帮助我们绕过国内支付工具的限制，还在于它的开通过程非常简单快捷，支付过程也非常顺畅。无论是注册、使用，还是支付手续费用，WildCard都具备极高的稳定性和用户友好性。而且，它的费用相对较低，还经常提供优惠，尤其是通过我们推荐的步骤，你可以享受到更多专属折扣。我们可以自信地说，按照我们的方法操作，WildCard的成功率几乎是100%。
 
 因此，开通WildCard虚拟信用卡，不仅能帮助你顺利实现ChatGPT Plus、Midjourney等服务的充值和订阅，还能让你在享受全球互联网服务的过程中，省时、省力、省心。
 
@@ -48,14 +48,14 @@ WildCard的优势不仅在于它能帮助我们绕过国内支付工具的限制
 
 首先，打开 Wildcard官网，点击“立即体验”。在网站右上角，你可以找到语言切换按钮。如果你更习惯使用英语，点击此按钮将网站语言切换为英语，方便你后续操作。
 
-* WildCard官网：<a href="https://bewildcard.com/i/GPTBMW">https://bewildcard.com/i/GPTBMW</a>
+* WildCard官网：<a href="https://yeka.ai/i/GPTBMW">https://yeka.ai/i/GPTBMW</a>
 
-![访问Wildcard官网](https://github.com/gptbmw/gptbmw.github.io/blob/main/image/wildcard-1.png)
+![访问Wildcard野卡官网](https://github.com/gptbmw/gptbmw.github.io/blob/main/image/wildcard-1.png)
 
 #### 第二步：点击“立即开通”
 
-在这里，你将看到“立即开通”按钮。
-在此页面，你会看到Wildcard支持多个应用平台的充值，如OpenAI、Google Play、ChatGPT等，表明它的广泛应用范围。Wildcard主打轻松注册、快速使用、无感支付，并且手续费相对较低，是非常值得推荐的虚拟信用卡服务。
+点击页面中的“立即开通”按钮。
+在此页面，你会看到Wildcard支持多个应用平台的充值，如OpenAI、Google Play、ChatGPT等广泛的应用范围。Wildcard主打轻松注册、快速使用、无感支付，并且手续费相对较低，是非常值得推荐的虚拟信用卡服务。
 
 ![点击“立即体验”](https://raw.githubusercontent.com/gptbmw/gptbmw.github.io/refs/heads/main/image/wildcard-2.png)
 
@@ -89,7 +89,7 @@ WildCard的优势不仅在于它能帮助我们绕过国内支付工具的限制
 
 #### 第七步：填写个人信息
 
-支付成功后，你将进入到个人信息填写页面。在这里，系统会要求你填写英文姓名，并阅读并同意封禁须知。填写完毕后，点击“下一步”继续。
+支付成功后，你将进入到个人信息填写页面。在这里，系统会要求你填写英文姓名，阅读并同意封禁须知。填写完毕后，点击“下一步”继续。
 
 ![填写个人信息](https://raw.githubusercontent.com/gptbmw/gptbmw.github.io/refs/heads/main/image/wildcard-7%E5%A1%AB%E5%86%99%E4%B8%AA%E4%BA%BA%E8%BA%AB%E4%BB%BD%E4%BF%A1%E6%81%AF.jpg)
 
@@ -108,10 +108,9 @@ WildCard的优势不仅在于它能帮助我们绕过国内支付工具的限制
 
 #### 第九步：充值
 
-目前我们的卡里可用余额为0，但订阅升级ChatGPT Plus的费用是每月20美金，如果我们想升级订阅ChatGPT Plus，那么我们需要先对WildCard进行充值，建议充值的金额最好大于20美金，以保证我们的顺利的成功订阅ChatGPT Plus。
+目前我们的卡里可用余额为0，但订阅升级ChatGPT Plus的费用是每月20美金，如果我们想升级订阅ChatGPT Plus，那么我们需要先对WildCard进行充值，建议充值的金额最好大于20美金，以保证我们顺利的成功订阅ChatGPT Plus。
 
-
-小结：开通WildCard虚拟信用卡的过程并不复杂。通过注册、支付服务费以及填写个人信息，你就可以轻松完成开卡，并使用该卡进行ChatGPT Plus、OpenAI、Midjourney等平台的充值。Wildcard提供了便捷的操作流程、低廉的费用，以及对多种应用平台的支持，是解决跨境支付问题的理想选择。
+小结：开通WildCard虚拟信用卡的过程并不复杂。通过注册、支付服务费以及填写个人信息，你就可以轻松完成开卡，并使用该卡进行ChatGPT Plus、OpenAI、Midjourney等海外服务的充值订阅。Wildcard提供了便捷的操作流程、低廉的费用，以及对多种应用平台的支持，是解决跨境支付问题的理想选择。
 
 ## 注册ChatGPT账号的详细步骤
 
