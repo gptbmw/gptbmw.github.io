@@ -18,7 +18,7 @@ ChatGPT，全名为“Chat Generative Pre-trained Transformer”，是由OpenAI�
 
 2.一个有效且干净的电子邮箱：为了避免遇到验证邮件收不到的问题，最好使用一个有效的国外邮箱，如Gmail。创建国外邮箱的过程非常简单，可以通过访问Gmail官网进行注册。（如果你已经拥有Gmail邮箱，可以跳过此步骤！）
 
-3.一张WildCard野卡虚拟信用卡：为了顺利进行ChatGPT Plus的充值和升级，你需要拥有一张WildCard虚拟信用卡。WildCard卡可以帮助你解决国内无法直接使用本地信用卡支付的问题。（如何获取一张<a href="https://yeka.ai/i/GPTBMW">WildCard野卡虚拟信用卡</a>，请查看下文！）
+3.一张WildCard野卡虚拟信用卡：为了顺利进行ChatGPT Plus的充值和升级，你需要拥有一张WildCard虚拟信用卡。WildCard卡可以帮助你解决国内无法直接使用本地信用卡支付的问题。（如何获取一张<a href="https://yeka.ai/i/GPTBMW">WildCard野卡虚拟信用卡</a>，请查看下文！或者 查看<a href="https://github.com/gptbmw/wildcard">野卡wildcard虚拟信用卡</a>）
 
 注册ChatGPT基础账号：访问ChatGPT官网（chat.openai.com）进行注册。在这里，务必确认网址的正确性，并注意查找带有官方商标的页面，避免进入假冒网站。（注册过程，可以参考下文的详细步骤！）
 
