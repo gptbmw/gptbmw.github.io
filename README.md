@@ -1,4 +1,4 @@
-# 国内升级订阅ChatGPT Plus会员教程：如何注册ChatGPT账号？中国大陆用户如何使用WildCard虚拟信用卡充值购买ChatGPT Plus账号？
+# 国内升级订阅ChatGPT Plus会员教程：如何注册ChatGPT账号？中国大陆用户如何使用<a href="https://yeka.ai/i/GPTBMW">WildCard虚拟信用卡</a>充值购买ChatGPT Plus账号？
 
 <p align="center">文章更新于：2025年5月10日</p >
 
