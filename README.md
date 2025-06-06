@@ -356,11 +356,11 @@ ChatGPT基础版：更适合轻度使用者，如仅需偶尔进行日常对话�
 
 通过上述操作，你可以轻松管理你的WildCard卡片余额，确保未消费的资金得到合理利用，避免不必要的浪费。
 
+<p align="center"><a href="https://yeka.ai/i/GPTBMW">前往wildcard官网</a>
+
 ## 如果我取消订阅后还可以再次升级ChatGPT Plus吗？
 
 是的，你完全可以在取消订阅后再次升级到ChatGPT Plus。ChatGPT Plus的订阅是灵活的，你可以根据需要随时选择订阅或取消，无需担心长期约束。
-
-<p align="center"><a href="https://yeka.ai/i/GPTBMW">前往wildcard官网</a>
 
 **如何重新升级：**
 
