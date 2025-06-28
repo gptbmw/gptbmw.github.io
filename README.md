@@ -180,6 +180,8 @@ WildCard的优势不仅在于它能帮助我们跨过国内支付工具的限制
 
 在支付页面中，手动填写你从<a href="https://yeka.ai/i/GPTBMW">Wildcard</a>获取的虚拟信用卡信息，包括卡号、有效期、账单地址等，然后点击“订阅”按钮完成支付。
 
+<a href="https://yeka.ai/i/GPTBMW">点击直达WildCard虚拟信用卡官网</a>
+
 ## ChatGPT和ChatGPT Plus的区别
 
 在是否升级到ChatGPT Plus的问题上，我们不做强求或推荐，而是希望你能根据自身需求和实际情况进行判断。以下是ChatGPT和ChatGPT Plus的核心区别，从功能到用户体验的多个角度进行了详细说明：
