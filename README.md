@@ -50,7 +50,7 @@ WildCard的优势不仅在于它能帮助我们跨过国内支付工具的限制
 点击页面左侧的“继续”按钮。
 在此页面，你会看到WildCard的优势在于0门槛、一分钟开通、一键支付，是非常值得推荐的虚拟信用卡服务。
 
-![点击“继续”](https://raw.githubusercontent.com/gptbmw/gptbmw.github.io/refs/heads/main/image/wildcard-2.png)
+![点击“继续”](https://raw.githubusercontent.com/gptbmw/gptbmw.github.io/refs/heads/main/image/wildcard-2.jpg)
 
 #### 第三步：开通会员
 
@@ -62,7 +62,7 @@ WildCard的优势不仅在于它能帮助我们跨过国内支付工具的限制
 
 在弹出的注册页面中，点击下方去注册，输入手机号码后，点击“获取验证码”，输入收到的验证码，点击“提交注册”，设置账户密码，完成账户注册。
 
-![注册账户](https://raw.githubusercontent.com/gptbmw/gptbmw.github.io/refs/heads/main/image/wildcard-4.png)
+![注册账户](https://raw.githubusercontent.com/gptbmw/gptbmw.github.io/refs/heads/main/image/wildcard-4.jpg)
 
 #### 第五步：选择服务年限
 
