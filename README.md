@@ -45,12 +45,12 @@ WildCard的优势不仅在于它能帮助我们跨过国内支付工具的限制
 
 ![访问Wildcard野卡官网](https://github.com/gptbmw/gptbmw.github.io/blob/main/image/wildcard-1.png)
 
-#### 第二步：点击“立即开通”
+#### 第二步：点击“继续”
 
-点击页面中的“立即开通”按钮。
-在此页面，你会看到Wildcard支持多个应用平台的充值，如OpenAI、Google Play、ChatGPT等广泛的应用范围。WildCard的优势在于其简便的开通流程、低廉的手续费以及快速到账的支付体验，是非常值得推荐的虚拟信用卡服务。
+点击页面左侧的“继续”按钮。
+在此页面，你会看到WildCard的优势在于0门槛、一分钟开通、一键支付，是非常值得推荐的虚拟信用卡服务。
 
-![点击“立即体验”](https://raw.githubusercontent.com/gptbmw/gptbmw.github.io/refs/heads/main/image/wildcard-2.png)
+![点击“继续”](https://raw.githubusercontent.com/gptbmw/gptbmw.github.io/refs/heads/main/image/wildcard-2.png)
 
 #### 第三步：开通会员
 
@@ -60,7 +60,7 @@ WildCard的优势不仅在于它能帮助我们跨过国内支付工具的限制
 
 #### 第四步：注册账户
 
-进入注册页面后，你可以使用中国大陆的手机号码进行注册。输入手机号码后，点击“获取验证码”，并输入收到的验证码，点击“提交注册”，设置账户密码，完成账户注册。
+在弹出的注册页面中，点击下方去注册，输入手机号码后，点击“获取验证码”，输入收到的验证码，点击“提交注册”，设置账户密码，完成账户注册。
 
 ![注册账户](https://raw.githubusercontent.com/gptbmw/gptbmw.github.io/refs/heads/main/image/wildcard-4.png)
 
