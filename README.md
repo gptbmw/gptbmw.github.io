@@ -1,6 +1,31 @@
 # 国内升级订阅ChatGPT Plus会员教程：如何注册ChatGPT账号？中国大陆用户如何使用<a href="https://yeka.ai/i/GPTBMW">WildCard虚拟信用卡</a>充值购买ChatGPT Plus账号？
 
-<p align="center">文章更新于：2025年5月10日</p >
+<p align="center">文章更新于：2025年7月19日</p >
+
+## 重要提示：
+
+由于某些原因，WildCard野卡已于2025年7月12日被迫停止服务。如果你之前已经开通了WildCard野卡，并且卡内仍有余额，请尽快将余额使用完毕。如果你之前没有开通过WildCard野卡，那么今后将无法再使用WildCard野卡订阅任何海外服务。
+
+今后，如果你想使用ChatGPT、Claude、Midjourney、Grok、Poe等海外AI工具，目前仅能选择合租（镜像站）或代充值这两种方式了。
+
+### AI工具合租和和代充值平台首选：<a href="https://nf.video/Sy195">银河录像局</a>
+
+银河录像局是一家专业、合法合规（在监管部门有备案）的大型平台，安全稳定，价格实惠，大家可以放心使用。
+
+银河录像局目前提供的服务包括：
+
+* ChatGPT Plus合租、ChatGPT Plus代充值、ChatGPT Plus原生独立帐号
+* Claude Pro合租、Claude Pro原生独立帐号
+* Midjourney合租、Midjourney原生独立帐号
+* SuporGrok合租、SuporGrok原生独立帐号
+
+此外，银河录像局还提供24小时在线客服，所有服务均有完善的售后支持！
+
+* 银河录像局官网：<a href="https://nf.video/Sy195">https://nf.video/Sy195</a>
+
+**注意**：通过银河录像局合租AI工具或代充值时，**使用优惠码“GPTBMW”可享受九折优惠**！
+
+****
 
 虽然现在的AI工具层出不穷，但ChatGPT作为AI的潮流代表，无疑仍是当前全球最炙手可热、功能全面的AI工具之一，它不仅能与我们进行深度对话，展开学术探讨，激发创意灵感，还能助力论文、小说撰写，辅助程序编程，甚至涉足绘图领域，很多学校和家长也将它用于教学或辅导孩子作业、编写抖音文案等。ChatGPT打破了传统工作模式的时间和思维壁垒，让沟通无界，让知识触手可及，引领我们探索AI的无限可能。那么我们如何获得并高效使用ChatGPT呢？如何使用<a href="https://yeka.ai/i/GPTBMW">WildCard虚拟信用卡</a>订阅ChatGP Plus？请接着往下看，让我们在国内也可以毫无障碍的使用这款强大的AI工具。
 
